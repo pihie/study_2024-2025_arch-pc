@@ -1,3 +1,0 @@
-git add .
-git commit -m "Твоё сообщение о коммите"
-git push

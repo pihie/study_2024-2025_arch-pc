@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "f358e82a8f0e2d7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "78eb6ddc4698038a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb0286a4e5a16423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "внешний курс/report_presentation/report/report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "report"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "830660b84c994f5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f23b9cfb3ae39fee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35d5b720547de85a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cb71f25c199f9204",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d2222af25274baf8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7ac6f9191a85dc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5891ec8c469fe331",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87366c2e6e5ce465",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "внешний курс/report_presentation/report/report.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for report"
+            }
+          },
+          {
+            "id": "0e1cbd3c92b55b8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "внешний курс/report_presentation/report/report.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from report"
+            }
+          },
+          {
+            "id": "21a5e08af5bb1fe8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f74fc5aae2c7c28b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "внешний курс/report_presentation/report/report.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of report"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cb0286a4e5a16423",
+  "lastOpenFiles": [
+    "внешний курс/report_presentation/report/report.docx",
+    "внешний курс/report_presentation/presentation/presentation.md",
+    "внешний курс/Сертификат.pdf"
+  ]
+}
